@@ -11,3 +11,9 @@
 java Model.java
 ```
 生成`output.txt`。
+
+其他版本`JDK`：
+```java
+javac Model.java
+java Model
+```
